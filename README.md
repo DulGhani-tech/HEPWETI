@@ -1,6 +1,4 @@
-[read_file for 'HFC.html'] Result:
 
-<!DOCTYPE html>
 <html lang="id" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
